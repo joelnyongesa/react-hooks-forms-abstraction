@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Form from './components/Form'
+import UpdatedForm from './components/UpdatedForm';
 
 ReactDOM.render(
-  <Form />,
+  <UpdatedForm />,
   document.getElementById('root')
 );
